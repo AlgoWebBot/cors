@@ -1,0 +1,236 @@
+[
+    {
+        "id": 1,
+        "brand": "Samsung",
+        "model": "Galaxy S20",
+        "storage": 128,
+        "ram": 8,
+        "chipset": "Exynos 990",
+        "camera": {
+            "main": 64,
+            "ultrawide": 12,
+            "telephoto": 8
+        },
+        "color": "Black",
+        "price": 899.99,
+        "release_date": "2022-01-15",
+        "image": "samsung_galaxy_s20.jpg",
+        "performance": 90
+    },
+    {
+        "id": 2,
+        "brand": "Apple",
+        "model": "iPhone 12",
+        "storage": 256,
+        "ram": 6,
+        "chipset": "A14 Bionic",
+        "camera": {
+            "main": 12,
+            "ultrawide": 12
+        },
+        "color": "Silver",
+        "price": 1099.99,
+        "release_date": "2021-09-30",
+        "image": "iphone_12.jpg",
+        "performance": 95
+    },
+    {
+        "id": 3,
+        "brand": "Google",
+        "model": "Pixel 5",
+        "storage": 128,
+        "ram": 8,
+        "chipset": "Snapdragon 765G",
+        "camera": {
+            "main": 12.2,
+            "ultrawide": 16
+        },
+        "color": "Just Black",
+        "price": 799.99,
+        "release_date": "2020-10-15",
+        "image": "google_pixel_5.jpg",
+        "performance": 85
+    },
+    {
+        "id": 4,
+        "brand": "OnePlus",
+        "model": "8T",
+        "storage": 256,
+        "ram": 12,
+        "chipset": "Snapdragon 865",
+        "camera": {
+            "main": 48,
+            "ultrawide": 16,
+            "macro": 5,
+            "depth": 2
+        },
+        "color": "Aquamarine Green",
+        "price": 749.99,
+        "release_date": "2020-11-01",
+        "image": "oneplus_8t.jpg",
+        "performance": 92
+    },
+    {
+        "id": 5,
+        "brand": "Xiaomi",
+        "model": "Mi 10",
+        "storage": 128,
+        "ram": 8,
+        "chipset": "Snapdragon 865",
+        "camera": {
+            "main": 108,
+            "ultrawide": 13,
+            "macro": 2,
+            "depth": 2
+        },
+        "color": "Coral Green",
+        "price": 699.99,
+        "release_date": "2020-06-30",
+        "image": "xiaomi_mi_10.jpg",
+        "performance": 88
+    },
+    {
+        "id": 6,
+        "brand": "LG",
+        "model": "Velvet",
+        "storage": 64,
+        "ram": 6,
+        "chipset": "Snapdragon 765G",
+        "camera": {
+            "main": 48,
+            "ultrawide": 8,
+            "depth": 5
+        },
+        "color": "Aurora White",
+        "price": 499.99,
+        "release_date": "2020-08-25",
+        "image": "lg_velvet.jpg",
+        "performance": 84
+    },
+    {
+        "id": 7,
+        "brand": "Motorola",
+        "model": "Moto G Power",
+        "storage": 64,
+        "ram": 4,
+        "chipset": "Snapdragon 665",
+        "camera": {
+            "main": 16,
+            "ultrawide": 8,
+            "macro": 2
+        },
+        "color": "Smoke Black",
+        "price": 249.99,
+        "release_date": "2021-04-10",
+        "image": "motorola_moto_g_power.jpg",
+        "performance": 78
+    },
+    {
+        "id": 8,
+        "brand": "Sony",
+        "model": "Xperia 5 II",
+        "storage": 128,
+        "ram": 8,
+        "chipset": "Snapdragon 865",
+        "camera": {
+            "main": 12,
+            "ultrawide": 12,
+            "telephoto": 12
+        },
+        "color": "Blue",
+        "price": 999.99,
+        "release_date": "2020-09-17",
+        "image": "sony_xperia_5_ii.jpg",
+        "performance": 91
+    },
+    {
+        "id": 9,
+        "brand": "Nokia",
+        "model": "8.3 5G",
+        "storage": 128,
+        "ram": 6,
+        "chipset": "Snapdragon 765G",
+        "camera": {
+            "main": 64,
+            "ultrawide": 12,
+            "macro": 2,
+            "depth": 2
+        },
+        "color": "Polar Night",
+        "price": 699.99,
+        "release_date": "2020-10-08",
+        "image": "nokia_8.3_5g.jpg",
+        "performance": 83
+    },
+    {
+        "id": 10,
+        "brand": "ASUS",
+        "model": "ROG Phone 3",
+        "storage": 256,
+        "ram": 12,
+        "chipset": "Snapdragon 865 Plus",
+        "camera": {
+            "main": 64,
+            "ultrawide": 13,
+            "macro": 5
+        },
+        "color": "Black Glare",
+        "price": 1099.99,
+        "release_date": "2020-08-06",
+        "image": "asus_rog_phone_3.jpg",
+        "performance": 96
+    },
+    {
+        "id": 11,
+        "brand": "Huawei",
+        "model": "P40 Pro",
+        "storage": 256,
+        "ram": 8,
+        "chipset": "Kirin 990 5G",
+        "camera": {
+            "main": 50,
+            "ultrawide": 40,
+            "telephoto": 12
+        },
+        "color": "Silver Frost",
+        "price": 899.99,
+        "release_date": "2020-04-07",
+        "image": "huawei_p40_pro.jpg",
+        "performance": 89
+    },
+    {
+        "id": 12,
+        "brand": "Oppo",
+        "model": "Find X2 Pro",
+        "storage": 512,
+        "ram": 12,
+        "chipset": "Snapdragon 865",
+        "camera": {
+            "main": 48,
+            "ultrawide": 48,
+            "periscope telephoto": 13
+        },
+        "color": "Orange Vegan Leather",
+        "price": 1199.99,
+        "release_date": "2020-03-06",
+        "image": "oppo_find_x2_pro.jpg",
+        "performance": 87
+    },
+    {
+        "id": 13,
+        "brand": "Realme",
+        "model": "X50 Pro",
+        "storage": 128,
+        "ram": 8,
+        "chipset": "Snapdragon 865",
+        "camera": {
+            "main": 64,
+            "ultrawide": 12
+        },
+        "color": "Moss Green",
+        "price": 699.99,
+        "release_date": "2020-02-24",
+        "image": "realme_x50_pro.jpg",
+        "performance": 86
+    }
+]
